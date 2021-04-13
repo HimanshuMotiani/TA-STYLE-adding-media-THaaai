@@ -348,6 +348,15 @@ width: 30%;
 .gap-footer{
     padding: 70px 0;
 }
+.num-footer{
+    margin-right: 30px;
+}
+.space{
+    margin-right: 160px;
+}
+hr{
+    border: 1px solid #303030;
+}
 
 
 
