@@ -334,6 +334,9 @@ width: 30%;
     color: white;
     font-size: 32px;
 }
+.col-5-1 p{
+    color: #d2d2d2;
+}
 .col-5-2{
     flex: 0 1 24%;
 }
@@ -342,7 +345,7 @@ width: 30%;
     color: white;
 }
 .col-5-2 p{
-    color: #bbbbbb;
+    color: #d8d8d8;
     font-size: 16px;
 }
 .gap-footer{
